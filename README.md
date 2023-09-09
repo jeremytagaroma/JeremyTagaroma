@@ -9,7 +9,23 @@ Hello, Universe🌌!
 <p align= "justify">
 ║ As an ambitious and committed undergraduate student 🧑🏻‍💻 pursuing a degree in information technology 👨🏻‍💻, I actively engage in academic and professional activities. My interests lie in UX/UI Design and Programming. I find these fields fascinating and full of potential for innovation and growth. I constantly seek to learn about the latest trends and techniques in these areas; I work tirelessly to improve my skills and knowledge. With my hard work and dedication, I am confident I can achieve my goals and significantly impact the technology industry.
 </p>
-  
+
+  <h3 align ="center"> ➺ Follow my Socials and Connect with Me! </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jeremy-t-7b507021a/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/jeremy-tagaroma" height="25" width="100" />
+</a>
+  <a href="https://www.instagram.com/jeremytagaroma/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jeremytagaroma" height="25" width="100" />
+  </a>
+  <a href="https://www.facebook.com/Jy.Tagaroma" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="jeremytagaroma" height="25" width="100" />
+  </a>
+</p>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=jeremytagaroma&style=flat-square&color=blue" alt=""/>
+</div>
+
 <br />
 
 
@@ -41,22 +57,4 @@ Hello, Universe🌌!
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremytagaroma&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremytagaroma&theme=tokyonight" />
 </a>
-</div>
-
-<h3 align ="center"> ➺ Follow my Socials and Connect with Me! </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/jeremy-t-7b507021a/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/jeremy-tagaroma" height="25" width="100" />
-</a>
-  <br>
-  <a href="https://www.instagram.com/jeremytagaroma/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jeremytagaroma" height="25" width="100" />
-  </a>
-  <br>
-  <a href="https://www.facebook.com/Jy.Tagaroma" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="jeremytagaroma" height="25" width="100" />
-  </a>
-</p>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=jeremytagaroma&style=flat-square&color=blue" alt=""/>
 </div>
